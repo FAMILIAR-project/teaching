@@ -3,6 +3,8 @@ layout: default
 title: Repository of teaching material for product line and variability
 ---
 
+{% capture markdownize %}
+
 ## Context
 
 University of Namur in 2011 for MSc students
@@ -96,3 +98,6 @@ Project = the goal is to realize an end-to-end generative process to derive spec
 
  *	Exercice 9: model-based SPL engineering (template) ; analyze UsiXML metamodel and identify concepts (graphical elements) that are relevant for us
  *	Exercice 10: parameterize the transformation (property sheets)
+
+{% endcapture %}
+{{ markdownize | markdownify }}
