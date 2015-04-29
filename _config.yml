@@ -2,7 +2,7 @@
 title: Repository of teaching material for product lines and variability
 email: mathieu.acher@irisa.fr
 description: An open, public repository of teaching material  for product lines, configurable systems, generative approaches, and variability
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/teaching" # the subpath of your site, e.g. /blog/
 url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
 twitter_username: acherm
 github_username:  FAMILIAR-project
