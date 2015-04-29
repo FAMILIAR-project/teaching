@@ -1,7 +1,19 @@
-# Repository of teaching material for product lines and variability
+## Repository of teaching material for product lines and variability
  
 Available here: http://familiar-project.github.io/teaching/
 
-Feel free to contribute (instructions to follow)
+### Please contribute!
 
-We're using Jekyll and Github pages as a lightweight method to deliver content
+ *  Make the artifacts (e.g., slides) publicly available. It is highly recommended to
+  push the content in the git repository for having sustainable
+  resources (see directory [resources](../teaching/resources))
+  A temporary solution is to describe where resources are externally hosted (Google drive, Dropbox, etc.);
+ * Add your contribution to the list of contributions, including a summary (edit [contributions.md](https://github.com/FAMILIAR-project/teaching/blob/gh-pages/_includes/contributions.md));
+ * Add you to the list of contributors (edit [contributors.md](https://github.com/FAMILIAR-project/teaching/blob/gh-pages/_includes/contributors.md))
+
+### Technical details
+
+We're using [Jekyll](http://jekyllrb.com/docs/structure/) and [Github pages](https://help.github.com/categories/github-pages-basics/) as a lightweight method to share and publish content. 
+It will certainly evolve after the [SPLTea'15](spltea.irisa.fr) workshop. 
+
+You simply have to edit Markdown files and send a pull request
