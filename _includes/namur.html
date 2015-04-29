@@ -3,17 +3,32 @@ layout: default
 title: Repository of teaching material for product line and variability
 ---
 
-Courses: 10h
-Project/Exercices: 20h
+## Context
 
+University of Namur in 2011 for MSc students
+10 hours of courses (5 * 2) + 20 hours of exercices (10 * 2)
+
+## Location of the material
+
+[NamurSPLCourse
+   directory](https://github.com/FAMILIAR-project/teaching/tree/gh-pages/resources/NamurSPLCourse)
+
+## Description of the material
+
+Essentially a set of slides used for courses but also for lab sessions
+(running project)
+The material also includes some instructions (textual files)
+
+
+## Description of the source 
 
 
 1. Software product line engineering, Variability modeling and management: An overview 
 
-•	Goal of this course: variability / SPLs everywhere ; variability techniques and engineering ; running project: variability of a car configurator 
-•	Examples of variability intensive systems 
-•	Principles (overview: mass customization / reuse, variability in time / space, domain vs application engineering, single product vs family of products)
-•	Overview of implementation techniques
+ * Goal of this course: variability / SPLs everywhere ; variability techniques and engineering ; running project: variability of a car configurator 
+ *	Examples of variability intensive systems 
+ *	Principles (overview: mass customization / reuse, variability in time / space, domain vs application engineering, single product vs family of products)
+ *	Overview of implementation techniques
 
 Conclusion= variability intensive systems (SPLs) are widespread ; managing variability is a key issue
 
@@ -23,10 +38,10 @@ No exercice
 
 (Basically, we revisit 1.3 (principles), the framework of K. Pohl + generative techniques)
 
-•	Domain engineering pays off
-•	Domain engineering 
-•	Application engineering
-•	Generative, model-based approaches
+ *	Domain engineering pays off
+ *	Domain engineering 
+ *	Application engineering
+ *	Generative, model-based approaches
 
 
 Conclusion= SPL engineering changes the way software should be developed ; (bis) variability management and automated techniques are a key issue 
@@ -37,47 +52,47 @@ Exercice 1: revisiting your RE/SE knowledge: present (known) techniques in this 
 
 (aka Using feature model, the defacto standard)
   
-•	variability and features (recall of previous courses, what's in a feature, domain analysis)
-•	feature model (rationale, separation of concerns/OVM)
-•	feature model (syntax and semantics)
-•	overview of automated techniques
-•	feature model in the SPL framework (aka why a feature model is of interest: not necessary a documentation artefact, safe composition, configurators, product derivation)
+ *	variability and features (recall of previous courses, what's in a feature, domain analysis)
+ *	feature model (rationale, separation of concerns/OVM)
+ *	feature model (syntax and semantics)
+ *	overview of automated techniques
+ *	feature model in the SPL framework (aka why a feature model is of interest: not necessary a documentation artefact, safe composition, configurators, product derivation)
 
 Conclusion= feature models: de factor standard for modeling and managing variability (precise semantics, automated support, tools, useful in many variability management scenarios)
 
 Exercices (goal : modeling with feature models ; feature modeling in practice)
 
-•	Exercice 2: manual elaboration of FM: domain analysis, use of TVL (the domain of cars)
-•	Exercice 3: take an existing car configurator and try to identify configuration options (Ebrahim's patterns)
-•	Exercice 4: use automtated techniques for reverse engineer configuration options from GUIs (use the same previous example)
+ *	Exercice 2: manual elaboration of FM: domain analysis, use of TVL (the domain of cars)
+ *	Exercice 3: take an existing car configurator and try to identify configuration options (Ebrahim's patterns)
+ *	Exercice 4: use automtated techniques for reverse engineer configuration options from GUIs (use the same previous example)
   
 4. Feature models: automated techniques, language and tool support
 
-•	Automated techniques
-•	Management support
-•	Views, FCW
+ *	Automated techniques
+ *	Management support
+ *	Views, FCW
 
 Conclusion= automated, tool supported techniques have been developed for different purposes (extracting properties and reasoning about models, enhancing configuration process, etc.)
 
 Exercices (goal : see operations in practice using a dedicated language)
 
-•	Exercice 5: FAMILIAR: learn the language ; revisit Benavides et al. 2010: write FML scripts for each operation + unit test in FML
-•	Exercice 6: FAMILIAR: populate the user manual for missing operations (following the same guidelines)
-•	Exercice 7: use the running example and apply management techniques (views, FCW) ; propose different strategies to separate concerns ; reuse SPLOT prototype
-•	Exercice 8: domain analysis of car configurator (compator of cars, VariCell (or revisit the merge operator), e.g.: http://www.opel.ie/vehicles/opel_range/cars/agila/features-specs/equipment.html#series=0HFE) 
+ *	Exercice 5: FAMILIAR: learn the language ; revisit Benavides et al. 2010: write FML scripts for each operation + unit test in FML
+ *	Exercice 6: FAMILIAR: populate the user manual for missing operations (following the same guidelines)
+ *	Exercice 7: use the running example and apply management techniques (views, FCW) ; propose different strategies to separate concerns ; reuse SPLOT prototype
+ *	Exercice 8: domain analysis of car configurator (compator of cars, VariCell (or revisit the merge operator), e.g.: http://www.opel.ie/vehicles/opel_range/cars/agila/features-specs/equipment.html#series=0HFE) 
 
 
 5. Variability implementation 
 
-•	Overview of implementation techniques (revisit course 1)
-•	Conditional compilation
-•	Design Patterns
-•	Generative techniques (DSLs)
-•	Model-based product derivation
+ *	Overview of implementation techniques (revisit course 1)
+ *	Conditional compilation
+ *	Design Patterns
+ *	Generative techniques (DSLs)
+ *	Model-based product derivation
 
 Conclusion= realizing variability is a rich field that involves basic mechanisms (conditional compilation) or more sophisiticated technology ; applicable to many artefacts (code, documentation, graphical interfaces)
 
 Project = the goal is to realize an end-to-end generative process to derive specific configurators from a feature model (e.g., like the one that has been reverse engineered)
 
-•	Exercice 9: model-based SPL engineering (template) ; analyze UsiXML metamodel and identify concepts (graphical elements) that are relevant for us
-•	Exercice 10: parameterize the transformation (property sheets)
+ *	Exercice 9: model-based SPL engineering (template) ; analyze UsiXML metamodel and identify concepts (graphical elements) that are relevant for us
+ *	Exercice 10: parameterize the transformation (property sheets)
