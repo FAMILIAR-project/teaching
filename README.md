@@ -16,4 +16,4 @@ Available here: http://familiar-project.github.io/teaching/
 We're using [Jekyll](http://jekyllrb.com/docs/structure/) and [Github pages](https://help.github.com/categories/github-pages-basics/) as a lightweight method to share and publish content. 
 It will certainly evolve after the [SPLTea'15](http://spltea.irisa.fr) workshop. 
 
-You simply have to edit Markdown files and send a pull request
+You simply have to edit [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) files and send a pull request
