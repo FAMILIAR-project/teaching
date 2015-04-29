@@ -1,5 +1,5 @@
 ### List of contributors
 
- * Mathieu Acher (Associate Professor, University of Rennes 1)
+ * [Mathieu Acher](http://www.mathieuacher.com) (Associate Professor, University of Rennes 1)
 
 
