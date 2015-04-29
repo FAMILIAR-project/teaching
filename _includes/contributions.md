@@ -5,4 +5,5 @@
  * [Product line at University of Rennes 1, part of Model-driven Engineering course (2013)](rennes2013.html)
  * [Product line course at University of Rennes 1 (MSc students, research-oriented) (2013)](rennes2013-MRI.html)
  * [Product line at University of Rennes 1, part of Model-driven Engineering course (2014)](rennes2014.html)
+ * [Short intervention at University of Linz (2014)](linz2014.html)
 
