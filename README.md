@@ -1,6 +1,6 @@
 # Repository of teaching material for product lines and variability
  
-Available here: http://familiar-project.github.io/teaching/
+Available here: http://teaching.variability.io/
 
 ## Please contribute!
 
