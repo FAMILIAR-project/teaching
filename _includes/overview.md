@@ -8,7 +8,6 @@ SPL, variability, configurable systems or generative approaches.
 As part of <a href="http://spltea.irisa.fr/">SPLTea'15</a> workshop
 (colocated with SPLC), participants will brainstorm about the repository, refine its design
 and hopefully populate it with rich, structured content.
- **Contributions are already welcome and highly encouraged! Instructions to contribute are available below while details about call for papers (including 2-pages papers) are available in the website of <a href="http://spltea.irisa.fr/">SPLTea'15</a>**
 
 The ultimate goal is to provide a public, open, well-structured
 repository of teaching material that students, practitioners,
