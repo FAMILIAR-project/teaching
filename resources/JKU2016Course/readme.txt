@@ -1,1 +1,0 @@
-I will upload the PDF files soon *latest early October 2016
