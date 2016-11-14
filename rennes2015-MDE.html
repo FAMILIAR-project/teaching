@@ -1,0 +1,43 @@
+---
+layout: default
+title: Repository of teaching material for product line and variability
+---
+
+{% capture markdownize %}
+
+## Context
+
+University of Rennes 1 in 2015 for MSc students (software engineering: M2GL and M2GLA; software management: MIAGE)
+
+Instructors: Mathieu Acher and Jean-Marc J&eacute;z&eacute;quel
+
+## Location of the material
+
+[Rennes 2015 MDE
+   directory](https://github.com/FAMILIAR-project/teaching/tree/gh-pages/resources/Rennes2015MDECourse)
+
+## Description of the material
+
+A set of slides used for courses.
+Lab sessions and project instructions are also available.
+
+
+## Description of the course
+
+The course starts with a gentle introduction of model-driven
+engineering.
+Domain-specific languages (DSLs) are then described (defintions,
+taxonomy, implementation techniques, etc.).
+A focus is made on external DSLs with Xtext.
+Techniques for metamodeling and model transformation with Xtend/Xtext
+are presented.
+
+As a running example we used a *configurable video generator*.
+The last part of the course is entirely devoted to variability (modeling,
+reverse engineering, testing, etc.).
+Finally a project is proposed and consists in implementing a configurable, Web video generator
+using JHipster for the Web stacks.
+
+
+{% endcapture %}
+{{ markdownize | markdownify }}
