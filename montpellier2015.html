@@ -1,0 +1,45 @@
+---
+layout: default
+title: Repository of teaching material for product line and variability
+---
+
+{% capture markdownize %}
+
+## Context
+
+
+As part of a course on "Software evolution and re-engineering" at
+University of Montpellier in 2015 for MSc students.
+Most of them are following a software engineering cursus. There is also an audience with an interest in research.
+Several (external) instructors are involved to present specific topics: refactoring, metamodeling, reverse engineering, etc.
+More details here: http://www.lirmm.fr/users/utilisateurs-lirmm/marianne-huchard/enseignement/hmin306
+
+We put here the material related to configuration, variability, reuse, and software product line engineering.
+
+Instructor: Mathieu Acher
+
+## Location of the material
+
+[Montpellier 2015
+   directory](https://github.com/FAMILIAR-project/teaching/tree/gh-pages/resources/Montpellier2015)
+
+## Description of the material
+
+A set of slides used for courses.
+Lab sessions include:
+ * exercices on feature modeling
+ * an exercice on [JHipster](https://jhipster.github.io/)
+
+Course content is in English, lab instructions in French.
+
+
+## Description of the course
+
+The course starts with a gentle introduction of software product lines (what and where they are, terminology and definition, SPLE process, etc.)
+We continue with feature modeling (syntacs and semantics).
+We then consider the relationship between feature model, product comparison matrix (PCM).
+Finally we explore scenarios for extracting feature models or PCMs from existing artefacts. 
+
+
+{% endcapture %}
+{{ markdownize | markdownify }}
