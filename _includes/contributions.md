@@ -12,3 +12,4 @@
 * [Product line course at JKU Linz (MSc students) (2016)](jku2016.html)
 * [Product line material, part of "Software evolution and re-engineering" course, at University of Montpellier (MSc students) (2016)](montpellier2016.html)
 * [Product line material, part of "Model-driven engineering" course, at University of Montpellier (MSc students) (2016)](montpellier2016MDE.html)
+* [Product line material, part of "Software testing" course at University of Rennes 1 (MSc students) (2015 and 2016)](rennes-testing2016.html)

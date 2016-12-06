@@ -1,9 +1,11 @@
 ### List of contributors
 
- * [Mathieu Acher](http://www.mathieuacher.com) (Associate Professor, University of Rennes 1)
- * [Jabier Martinez](http://sites.google.com/site/jabiermartinezwebsite) (University of Luxembourg and UPMC Univ Paris 6)
- * [Rick Rabiser](http://mevss.jku.at/?page_id=57) (Senior Researcher, JKU Linz)
- * [Roberto E. Lopez-Herrejon](https://www.etsmtl.ca/) (Associate Professor, École de Technologie Supérieure Montréal)
- * [Jessie Carbonnel](https://www.lirmm.fr/users/utilisateurs-lirmm/jessie-carbonnel) (PhD student, University of Montpellier)
+* [Mathieu Acher](http://www.mathieuacher.com) (Associate Professor, University of Rennes 1)
+* [Jean-Marc Jézéquel](https://people.irisa.fr/Jean-Marc.Jezequel/) (Professor, University of Rennes 1)
+* [Jabier Martinez](http://sites.google.com/site/jabiermartinezwebsite) (University of Luxembourg and UPMC Univ Paris 6)
+* [Rick Rabiser](http://mevss.jku.at/?page_id=57) (Senior Researcher, JKU Linz)
+* [Roberto E. Lopez-Herrejon](https://www.etsmtl.ca/) (Associate Professor, École de Technologie Supérieure Montréal)
+* [Jessie Carbonnel](https://www.lirmm.fr/users/utilisateurs-lirmm/jessie-carbonnel) (PhD student, University of Montpellier)
+* [Benoit Baudry](http://people.rennes.inria.fr/Benoit.Baudry/) (Research scientist, Inria Rennes)
 
 
