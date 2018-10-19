@@ -1,0 +1,51 @@
+---
+layout: default
+title: Repository of teaching material for product line and variability
+---
+
+{% capture markdownize %}
+
+# Clean Your Variable Code with FeatureIDE
+
+## Context
+
+A tutorial being held at several international conferences, including SPLC'16 in Beijing, a German modeling conference in Brunswick (Modellierung'18), and SPLC'18 in Gothenborg.
+
+It targets at researchers and practitioners who aim to understand how feature models and dedicated tool support can help improve the quality of product lines implemented with preprocessor macros. It is a half-day tutorial (i.e., about 3 hours excluding breaks).
+
+Instructors: Thomas Thüm (TU Braunschweig), Sebastian Krieter (University of Magdeburg), Thomas Leich (Harz University of Applied Sciences)
+
+## Location of the material
+
+[Directory in this repository with all FeatureIDE tutorials](https://github.com/FAMILIAR-project/teaching/tree/gh-pages/resources/FeatureIDE-Tutorials)
+
+[External directory with all FeatureIDE tutorials](http://featureide.cs.ovgu.de/tutorials/)
+
+## Description of the material
+
+The abstract as appeared in the proceedings and the slides that are used throughout the tutorial. The majority of the slides are for the lecture-style presentations, but they also include tasks for the five hands-on sessions. Each version of the tutorial is designed to work with a particular version of FeatureIDE.
+
+## Description of the course
+
+Excerpt of the respective [SPLC'18 publication](http://featureide.cs.ovgu.de/tutorials/2018-splc/tutorial-abstract.pdf):
+
+FeatureIDE is an open-source framework to model, develop, and analyze feature-oriented software product lines. It is mainly developed in a cooperation between TU Braunschweig, University of Magdeburg, and Metop GmbH. Nevertheless, many other institutions contributed to it in the past decade. Goal of this tutorial is to illustrate how FeatureIDE can be used to clean variable code, whereas we will focus on dependencies in feature models and on variability implemented with preprocessors. The hands-on tutorial will be highly interactive and is devoted to practitioners facing problems with variability, lecturers teaching product lines, and researchers who want to save resources in building product-line tools based on the FeatureIDE infrastructure.
+
+Often, software systems have to be tailored to the needs of different customers. If differences between those systems are made explicit in terms of features, feature-oriented software product lines can be used to automatically generate software variants based on a selection of features.
+
+In feature-oriented software development, valid combinations of features are specified in a feature model during domain analysis. In domain design and domain implementation, those features are mapped to development artifacts, such as models, code, documentation, and tests. To this end, preprocessors support a fine-grained mapping, as illustrated in the tutorial. During application engineering, valid configurations are derived from the feature model, which are used as input for the preprocessor.
+
+Since 2004, we are developing tool support for feature-oriented software development for Eclipse in the FeatureIDE project. Since 2009, FeatureIDE is open source and received contributions from all over the world. While FeatureIDE started as a tool for teaching and a vehicle for research prototypes, today it is also applied in industrial projects with thousands of features.
+
+The tutorial is planned to be a highly-interactive, half-day event. We will demonstrate FeatureIDE's functionality in addition to interleaved hands-on sessions, in which participants try out FeatureIDE and can rely on our assistance. During these interactive parts, the goal is to modify an example product line with FeatureIDE. Participants are asked to bring a notebook for the hands-on sessions. The tutorial will cover the following topics:
+
+1. Introduction to feature-oriented software development
+2. Creation and cleaning of feature models
+3. Creation and cleaning of configurations
+4. Creation and cleaning of preprocessor directives
+5. Compilation and testing with guaranteed coverage
+
+Our tutorial focuses on practitioners and researchers, who are interested in the state-of-the-art to manage program variants. Furthermore, the tutorial is of interest for developers of configurable programs that face challenges in the development process.
+
+{% endcapture %}
+{{ markdownize | markdownify }}
