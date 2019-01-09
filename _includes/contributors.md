@@ -30,6 +30,9 @@
 
 * [Irena Domachowska](https://tu-dresden.de/mn/psychologie/sozial/die-professur/beschaeftigte/irena-domachowska-msc) (Technische Universität Dresden, Germany)
 
-  ​
+* [Thomas Thüm](https://www.tu-braunschweig.de/isf/team/thuem) (Postdoctoral Researcher, TU Braunschweig, Germany)
 
+* [Sebastian Krieter](http://wwwiti.cs.uni-magdeburg.de/~krieter/) (Doctoral Student, University of Magdeburg, Germany)
+
+* [Thomas Leich](https://www.hs-harz.de/tleich/zur-person/) (Professor, Harz University of Applied Sciences, Germany)
 
