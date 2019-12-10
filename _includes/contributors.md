@@ -36,3 +36,10 @@
 
 * [Thomas Leich](https://www.hs-harz.de/tleich/zur-person/) (Professor, Harz University of Applied Sciences, Germany)
 
+* [Clément Quinton](https://clementquinton.github.io/) (Associate Professor, University of Lille, France) 
+
+* [Jaime Chavarriaga](https://scholar.google.com/citations?user=lAB2W-IAAAAJ&hl=es) (Lecturer, Universidad de los Andes, Columbia)
+
+* [Tsuneo Nakanishi](https://dblp.uni-trier.de/pers/hd/n/Nakanishi:Tsuneo) (Professor at Fukuoka University, Japan)
+
+
