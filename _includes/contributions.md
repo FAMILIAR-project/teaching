@@ -17,6 +17,7 @@
 * [Product line material, part of "Model-driven Engineering" course at University of Rennes 1 (2019)](https://github.com/acherm/teaching-MDE1920)
 * [Product line material, part of "The Art Of Domain-Specific Languages: Let's Hack Our Own Languages!" research-oriented course at University of Rennes 1 (2017, 2018, and 2019)](https://github.com/FAMILIAR-project/HackOurLanguages-SIF)
 * [FeatureIDE tutorials being held at international conferences (SPLC'16, Modellierung'18, SPLC'18)](FeatureIDE-tutorials.html)
+* [Tutorial SPLC 2019: Machine Learning and Software Configurable Systems: A Gentle Introduction](https://github.com/VaryVary/ML-configurable-SPLCTutorial)
 * Experience report: ["Teaching variability engineering to cognitive psychologists"](cognitive2014.html)
 * Experience report: ["Ten years of the arcade game maker pedagogical product line"](game2014.html)
 * Experience report: ["Experiences in Teaching Variability Modeling and Model-driven Generative Techniques"](generative2014.html)
@@ -24,3 +25,4 @@
 * Experience report (including material): ["Teaching Software Product Lines as a Paradigm to Engineers: An Experience Report in Education Programs and Seminars for Senior Engineers in Japan"](nakanishi2018.html)
 * Experience report: ["Teaching Projects and Research Objectives in SPL Extraction"](ziadi2018.html)
 * Experience report: ["Nine years of courses on software product lines at Universidad de los Andes, Colombia"](chavarriaga2019.html)
+
