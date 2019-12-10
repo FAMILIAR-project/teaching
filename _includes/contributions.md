@@ -17,3 +17,7 @@
 * Experience report: ["Teaching variability engineering to cognitive psychologists"](cognitive2014.html)
 * Experience report: ["Ten years of the arcade game maker pedagogical product line"](game2014.html)
 * Experience report: ["Experiences in Teaching Variability Modeling and Model-driven Generative Techniques"](generative2014.html)
+* Experience report (including material): ["Giving Students a Glimpse of the SPL Lifecycle in Six Hours: Challenge Accepted"](quinton2018.html)
+* Experience report (including material): ["Teaching Software Product Lines as a Paradigm to Engineers: An Experience Report in Education Programs and Seminars for Senior Engineers in Japan"](nakanishi2018.html)
+* Experience report: ["Teaching Projects and Research Objectives in SPL Extraction"](ziadi2018.html)
+* Experience report: ["Nine years of courses on software product lines at Universidad de los Andes, Colombia"](chavarriaga2019.html)
