@@ -1,0 +1,38 @@
+---
+layout: default
+title: Repository of teaching material for product line and variability
+---
+
+{% capture markdownize %}
+
+## Context
+
+Teaching Software Product Lines as a Paradigm to Engineers: 
+An Experience Report in Education Programs and Seminars for Senior Engineers in Japan
+
+Instructor: Tsuneo Nakanishi
+
+## Location of the material
+
+[Japan 2018 directory](https://github.com/FAMILIAR-project/teaching/tree/gh-pages/resources/Japan2018)
+
+## Description of the material
+
+A set of slides used for training 
+
+Course content is translated into English. 
+The material is originally written in Japanese.
+
+
+## Description of the course
+
+More details can be found here: https://dl.acm.org/citation.cfm?doid=3236405.3237204
+
+The paper reports authors' experience in teaching software product lines (SPL) for senior engineers in the company. 
+An effective way for education in the experience is to teach SPL as a paradigm consisting of some key ideas and show how we can introduce the paradigm into the development process. 
+The authors have used PLUS as a reference of such development process. Feature modeling is taught not only as a means of variability modeling but also as a means to facilitate construction of abstraction hierarchy and separation of concerns. 
+Giving anti-patterns of feature modeling and countermeasures to them helps engineers discuss construction of better feature models.
+
+
+{% endcapture %}
+{{ markdownize | markdownify }}
