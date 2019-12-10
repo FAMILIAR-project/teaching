@@ -25,4 +25,3 @@
 * Experience report (including material): ["Teaching Software Product Lines as a Paradigm to Engineers: An Experience Report in Education Programs and Seminars for Senior Engineers in Japan"](nakanishi2018.html)
 * Experience report: ["Teaching Projects and Research Objectives in SPL Extraction"](ziadi2018.html)
 * Experience report: ["Nine years of courses on software product lines at Universidad de los Andes, Colombia"](chavarriaga2019.html)
-
