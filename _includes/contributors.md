@@ -48,4 +48,6 @@
 
 * [Tsuneo Nakanishi](https://dblp.uni-trier.de/pers/hd/n/Nakanishi:Tsuneo) (Professor at Fukuoka University, Japan)
 
+* [Xavier Devroey](http://xdevroey.be) (Postdoc, Delft University of Technology, The Netherlands)
+
 
