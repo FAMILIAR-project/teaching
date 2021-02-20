@@ -50,4 +50,4 @@
 
 * [Xavier Devroey](http://xdevroey.be) (Postdoc, Delft University of Technology, The Netherlands)
 
-
+* [Kristof Meixner](http://qse.ifs.tuwien.ac.at/kmeixner) (PhD student, TU Wien, Austria)
