@@ -6,7 +6,7 @@
 
 * [Jabier Martinez](http://sites.google.com/site/jabiermartinezwebsite) (University of Luxembourg and UPMC Univ Paris 6, France)
 
-* [Rick Rabiser](http://mevss.jku.at/?page_id=57) (Senior Researcher, JKU Linz, Austria)
+* [Rick Rabiser](https://rickrabiser.github.io/rick/) (Professor, JKU Linz, Austria)
 
 * [Roberto E. Lopez-Herrejon](https://www.etsmtl.ca/) (Associate Professor, École de Technologie Supérieure Montréal, Canada)
 
