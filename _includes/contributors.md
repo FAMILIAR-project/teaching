@@ -30,9 +30,9 @@
 
 * [Irena Domachowska](https://tu-dresden.de/mn/psychologie/sozial/die-professur/beschaeftigte/irena-domachowska-msc) (Technische Universität Dresden, Germany)
 
-* [Thomas Thüm](https://www.tu-braunschweig.de/isf/team/thuem) (Postdoctoral Researcher, TU Braunschweig, Germany)
+* [Thomas Thüm](https://www.uni-ulm.de/in/sp/team/thuem/) (Professor, University of Ulm, Germany)
 
-* [Sebastian Krieter](http://wwwiti.cs.uni-magdeburg.de/~krieter/) (Doctoral Student, University of Magdeburg, Germany)
+* [Sebastian Krieter](https://www.uni-ulm.de/in/sp/team/sebastian-krieter/) (Postdoc, University of Ulm, Germany)
 
 * [Thomas Leich](https://www.hs-harz.de/tleich/zur-person/) (Professor, Harz University of Applied Sciences, Germany)
 
@@ -51,3 +51,7 @@
 * [Xavier Devroey](http://xdevroey.be) (Postdoc, Delft University of Technology, The Netherlands)
 
 * [Kristof Meixner](http://qse.ifs.tuwien.ac.at/kmeixner) (PhD student, TU Wien, Austria)
+
+* [Timo Kehrer](https://www.inf.unibe.ch/ueber_uns/personen/seg/prof_dr_kehrer_timo/index_ger.html) (Professor, University of Bern, Switzerland)
+
+* [Elias Kuiter](https://www.dbse.ovgu.de/Mitarbeiter/Elias+Kuiter.html) (PhD student, University of Magdeburg, Germany)

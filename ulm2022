@@ -1,0 +1,28 @@
+---
+layout: default
+title: Lecture material of a 2h Lecture at TU Wien 2020 winter term
+---
+
+{% capture markdownize %}
+
+## Context
+
+This is a new lecture on software product lines with a focus on product-line implementation and analysis (2 hours, 13 appointments, Bachelor/Master students, in English, LaTeX).
+
+It was co-created from scratch by Thomas Thüm, Timo Kehrer, and Elias Kuiter and has been held so far (beginning of 2023) at the universities of Bern and Magdeburg.
+The slides are freely available under a Creative Commons license (CC-BY-SA-4.0), including all images.
+Each lecture is in three parts, each of which ends with a summary and audience interaction.
+
+Lecturers: Timo Kehrer, Gunter Saake, Elias Kuiter
+Teaching Assistants: Sandra Greiner, Elias Kuiter
+
+## Location of the material
+
+On GitHub: [SoftVarE-Group/Course-on-Software-Product-Lines](https://github.com/SoftVarE-Group/Course-on-Software-Product-Lines)
+
+A private repository with exercises is available on request.
+
+Regarding any questions, please contact [Thomas Thüm](mailto:thomas.thuem@uni-ulm.de).
+
+{% endcapture %}
+{{ markdownize | markdownify }} 

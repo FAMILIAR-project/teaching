@@ -18,6 +18,7 @@
 * [Product line material, part of "The Art Of Domain-Specific Languages: Let's Hack Our Own Languages!" research-oriented course at University of Rennes 1 (2017, 2018, and 2019)](https://github.com/FAMILIAR-project/HackOurLanguages-SIF)
 * [Software variability management: an Introduction, part of the Software Architecture course of the Delft University of Technology (2020)](tudelft2020.html)
 * [Product Line Engineering in Software-Intensive Systems, part of Advanced Software Engineering at TU Wien (MSc students) (2020)](vienna2020.html)
+* [Course on Software Product Lines (Universities of Ulm, Bern, and Magdeburg, 2022)](ulm2022.html)
 * [FeatureIDE tutorials being held at international conferences (SPLC'16, Modellierung'18, SPLC'18)](FeatureIDE-tutorials.html)
 * [Tutorial SPLC 2019: Machine Learning and Software Configurable Systems: A Gentle Introduction](https://github.com/VaryVary/ML-configurable-SPLCTutorial)
 * Experience report: ["Teaching variability engineering to cognitive psychologists"](cognitive2014.html)
